@@ -12,6 +12,7 @@ fastapi = "*"
 ujson = "*"
 email_validator = "*"
 python-decouple = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
